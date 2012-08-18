@@ -25,3 +25,10 @@ a:hover.wclx-ribbon {
 .wclx-ribbon-image-left {
 	left:0px;
 }
+
+@media only screen and (max-width:600px) {
+	.wclx-ribbon-image {
+		width:100px;
+		height:auto;
+	}
+}
